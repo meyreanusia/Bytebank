@@ -23,5 +23,6 @@ const clienteEstaLogado = sistemaAutenticacao.login(cliente, "2912");
 
 // console.log(gerenteEstaLogado);
 // console.log(diretorEstaLogado);
-console.log(clienteEstaLogado);
+console.log(diretorEstaLogado);
 console.log(gerenteEstaLogado);
+console.log(clienteEstaLogado);
